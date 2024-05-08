@@ -1,0 +1,16 @@
+/* css styles */
+table tr:nth-child(odd) {
+  background-color: #f2f2f2; 
+}
+
+table tr:hover {
+  background-color: #ffffcc; 
+}
+
+.dataTable tr:hover {
+  background-color: #ffffcc; 
+}
+
+table th {
+  background-color: #9607F9 ; 
+}

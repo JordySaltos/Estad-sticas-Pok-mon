@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Estadísticas Pokémon"
+  image: pokeball.png
+  navbar:
+    logo: logo_pokemon.png
+    title: false
+    left:
+      - href: index.qmd
+        text: Primera Generación
+      - href: about.qmd
+        text: Segunda Generación
+
+format:
+  html:
+    theme: pulse
+    highlight: tango
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: Contenidos
+
+
+
