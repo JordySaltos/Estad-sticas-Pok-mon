@@ -1,0 +1,21 @@
+---
+title: "Explora el Mundo Pokémon"
+---
+
+*¡Bienvenido al fascinante mundo de Pokémon!*
+
+**¿Qué es Pokémon?**
+
+![](Img1.jpeg){fig-align="center"}
+
+Pokémon es una franquicia de medios creada por Satoshi Tajiri y Ken Sugimori, que comenzó como un videojuego para Game Boy en 1996. Desde entonces, ha crecido hasta convertirse en una de las franquicias de entretenimiento más grandes y reconocidas del mundo.
+
+La premisa básica de Pokémon es simple pero cautivadora: los entrenadores viajan por el mundo capturando y entrenando criaturas conocidas como Pokémon, con el objetivo de convertirse en el mejor entrenador Pokémon del mundo. Cada Pokémon tiene habilidades únicas, tipos elementales y estadísticas que los hacen únicos en combate.
+
+**¿Qué encontrarás en está página?**
+
+Aquí encontrarás una amplia variedad de estadísticas correspondientes a todo tipo de Pokémon de la Primera y Segunda Generación.
+
+![](pikachu.png){fig-align="center" width="268"}
+
+El objetivo de está página es brindarte la información necesaria para que realices tus comparativas entre los distintos Pokémon, ya sea que seas un novato que recién comienza su viaje como entrenador o un veterano experimentado que busca perfeccionar sus habilidades. ¡Así que adelante, sumérgete en el mundo de Pokémon y descubre todo lo que está página tiene para ofrecer!

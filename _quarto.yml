@@ -9,9 +9,11 @@ website:
     logo: logo_pokemon.png
     title: false
     left:
-      - href: index.qmd
+      - href: home.qmd
+        text: Inicio
+      - href: Primero.qmd
         text: Primera Generación
-      - href: about.qmd
+      - href: Segundo.qmd
         text: Segunda Generación
 
 format:
